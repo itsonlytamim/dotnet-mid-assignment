@@ -1,0 +1,36 @@
+﻿@model List<dot_net_mid_assignment_Tamim.Models.CollectRequest>
+
+<h2>Collecting Requests</h2>
+
+@if (Model.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Restaurant Name</th>
+                <th>Food Description</th>
+                <th>Max Preservation Time</th>
+                <th>Status</th>
+                <th>Assigned Employee</th>
+                <th>Collection Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var request in Model)
+            {
+                <tr>
+                    <td>@request.restaurant.name</td>
+                    <td>@request.description</td>
+                    <td>@request.max_preserve_time</td>
+                    <td>@request.status</td>
+                    <td>@request.employee.name</td>
+                    <td>@request.collection_time</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No collect requests found.</p>
+}

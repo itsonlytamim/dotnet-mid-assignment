@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "OpenCollectRequest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Collection Request</h2>
+
+@using (Html.BeginForm())
+{
+    <table class="table">
+
+        <thead>
+            <tr>
+                <th>Restaurant Name</th>
+                <th>Food Description</th>
+                <th>Max Preservation Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var request in Model)
+            {
+
+                <tr>
+                    <td> @request.restaurant.name</td>
+                    <td>@request.description</td>
+                    <td>@request.max_preserve_time</td>
+                    <td><button type="submit" class="btn btn-primary">Submit</button> </td>
+
+
+                </tr>
+
+
+            }
+        </tbody>
+    </table> 
+      }

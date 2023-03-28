@@ -1,0 +1,94 @@
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot net mid assignment Tamim.csproj.AssemblyReference.cache
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot net mid assignment Tamim.csproj.CoreCompileInputs.cache
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\dot net mid assignment Tamim.dll.config
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\dot net mid assignment Tamim.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\dot net mid assignment Tamim.pdb
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\csc.exe
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\csc.exe.config
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\csc.rsp
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\csi.exe
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\csi.exe.config
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\csi.rsp
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.Managed.Core.targets
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.AppContext.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Collections.Immutable.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Console.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Globalization.Calendars.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.IO.Compression.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.IO.FileSystem.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Net.Http.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Net.Sockets.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Reflection.Metadata.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.ValueTuple.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Xml.XmlDocument.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Xml.XPath.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\vbc.exe
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\vbc.exe.config
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\vbc.rsp
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\VBCSCompiler.exe
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\roslyn\VBCSCompiler.exe.config
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\Antlr3.Runtime.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\EntityFramework.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\EntityFramework.SqlServer.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\Microsoft.Web.Infrastructure.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\Newtonsoft.Json.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.Helpers.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.Mvc.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.Optimization.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.Razor.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.WebPages.Deployment.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.WebPages.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.WebPages.Razor.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\WebGrease.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\EntityFramework.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\EntityFramework.SqlServer.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.Helpers.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.Mvc.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.Optimization.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.Razor.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.WebPages.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.WebPages.Deployment.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\System.Web.WebPages.Razor.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\Newtonsoft.Json.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\Antlr3.Runtime.pdb
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot net mid assignment Tamim.csproj.CopyComplete
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot net mid assignment Tamim.dll
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot net mid assignment Tamim.pdb
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot_net_mid_assignment_Tamim.Migrations.InitialCreate.resources
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot net mid assignment Tamim.csproj.GenerateResource.cache
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot_net_mid_assignment_Tamim.Migrations.AddedForeignkeys.resources
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot_net_mid_assignment_Tamim.Migrations.EditedForeignkeys.resources
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot_net_mid_assignment_Tamim.Migrations.finishing.resources
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot_net_mid_assignment_Tamim.Migrations.DROPCOLLUMN.resources
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot_net_mid_assignment_Tamim.Migrations.DROPCOLLUMNAgain.resources
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot_net_mid_assignment_Tamim.Migrations.idk.resources
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot_net_mid_assignment_Tamim.Migrations.done.resources
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot_net_mid_assignment_Tamim.Migrations.OKAY.resources
+E:\dotnwt repos\dot net mid assignment Tamim\dot net mid assignment Tamim\obj\Debug\dot_net_mid_assignment_Tamim.Migrations.Added.resources
